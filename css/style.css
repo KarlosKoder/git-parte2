@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 .container {
     display: flex;
@@ -38,3 +39,15 @@
     color: green;
     
 }
+=======
+article{
+    color: white;
+    width: 30%;
+    height: auto;
+    background-color: darkslateblue;
+    border-radius: 25px;
+    box-shadow: 10px 10px 10px black;
+    padding: 10px;
+    border: 2px solid black;
+}
+>>>>>>> c8cf6ddfbd73b7c2af853cfe65339e3f6bfa38a7
